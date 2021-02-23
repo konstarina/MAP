@@ -1,2 +1,1 @@
-# MAP
-Mobile Application Programming
+# Programming Mobile Applications Course. Spring 2021
