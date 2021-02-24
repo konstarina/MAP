@@ -13,7 +13,7 @@ Laboratory work No.1 consist in performing basic setup of mobile application on 
 5. Change Icon of the app to custom one
 
 
-[!screenshot](1.png)
-[!screenshot](2.png)
-[!screenshot](pink.png)
-[!screenshot](logo.png)
+![screenshot](1.png)
+![screenshot](2.png)
+![screenshot](pink.png)
+![image](icon.jpg)
