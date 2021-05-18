@@ -14,10 +14,13 @@ Implementation of API layer in your app represents integration of your app with 
 5. Add basic navigation component for in app navigation drawer menu(swipeable menu from left to right), or tab bar navigation(bottom bar with tabs) 
 
 
-![screenshot](1.png)
-![screenshot](2.png)
-![screenshot](3.png)
-![screenshot](4.jpg)
+![screenshot](menu.png)
+![screenshot](add category.png)
+![screenshot](category.png)
+![screenshot](add.png)
+![screenshot](dashboard.png)
+![screenshot](full task view.png)
+
 
 ## Laboratory work No.4 - Basic layout and UI
 Laboratory work No.4 at Mobile Application Programming consist in analyzing different presentation layer architectures (ex. MVC, MVP, MVVM and others) and selecting one for implementing it in your project.
